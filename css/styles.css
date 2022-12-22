@@ -1,0 +1,81 @@
+body {
+    background: rgba(245, 245, 245, 0.333) url(https://art-ari.ru/image/catalog/datapars2/Плитка_01-10-1-16-00-01-1107_Шармель_38.5х38.51.jpg); 
+    color: #020000; 
+    background-attachment: fixed; 
+    background-repeat: repeat-2; 
+    font-size: 16px
+}
+* {
+font-family: century gothic
+}
+
+.block1 { 
+    width: 900px; 
+    background: #f4c3c3;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px rgb(241, 241, 241); 
+    float: left;
+    text-align: justify; 
+    color: #ffffff; 
+   }
+   .block2 { 
+    width: 900px; 
+    background: #f4c3c3; 
+    padding: 5px; 
+    border: solid 1px rgb(255, 255, 255); 
+    float: left; 
+    position: relative; 
+    top: 40px; 
+    left: -15px; 
+    text-align: justify;
+    color: #ffffff; 
+   }
+   #kont { 
+    width: 900px; 
+    background: #f4c3c3;
+    color: #ffffff; 
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px #fafafa; 
+    float: left;
+    margin-top:20px
+    
+   }
+   
+.table {
+    text-align: center;
+background: #f4c3c3;
+color: #000000;
+margin: auto;
+width: 40%;
+border: 1px rgb(0, 0, 0)
+
+}
+th {
+font-size: 18px;
+padding: 10px;
+}
+td {
+background: #ffffff;
+padding: 40px;
+
+  }
+
+  
+div + p {
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    font-style:italic
+    
+}
+
+
+div > span {
+  background-color: #e95381;
+}
+
+p1, p2 {
+    margin-left:900px;
+    margin-bottom:140px
+    font-style:italic
+  }
